@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Erang Saputra 👋🏾</h1>
-<h3 align="center">A FrontEnd Engineering from Indonesian</h3>
+<h3 align="center">A Web Developer Growth from Indonesian</h3>
 
 <details>
   <summary>Description BIO</summary>
