@@ -10,7 +10,7 @@
 <li>🌱 I'm currently learning framework frontend like reactJS.</li>
 <li>💞️ I'm looking to collaborate in various places with a positive purpose and can improve my skills.</li>
 <li>😄 I'm natively speak Indonesian.</li>
-<li>📫 How to reach me <a href="https://www.linkedin.com/in/erang07/" target="_blank">Linkedin</a>, and <a href="https://www.instagram.com/erang.bdatra/" target="_blank">Instagram</a>.</li>
+<li>📫 How to reach me <a href="https://www.linkedin.com/in/erang-saputra-348a201a2/" target="_blank">Linkedin</a>, and <a href="https://www.instagram.com/erang.bdatra/" target="_blank">Instagram</a>.</li>
 </ul>
 </details>
 
